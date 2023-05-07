@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "create-expo-app": "^1.1.5",
+    "create-vite": "^4.1.0"
+  }
+}
